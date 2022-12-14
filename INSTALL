@@ -1,0 +1,3 @@
+ln -s /pentest/03/parsero/parsero.py /usr/bin/parsero.py
+ln -s /pentest/03/parsero/parsero.py /usr/bin/parsero
+chmod 775 parsero.py
